@@ -26,6 +26,7 @@ const requestHandler = (request, response) => {
                 response.statusCode = 302;
                 response.setHeader('Location', '/');
                 return response.end();
+                console.log("test")
             });
         });
     }

@@ -1,0 +1,15 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "Week 1 Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "David Doria",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
