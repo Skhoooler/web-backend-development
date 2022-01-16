@@ -13,7 +13,7 @@
             ],
             "restart": true,
             "runtimeExecutable": "nodemon",
-            "program": "${workspaceFolder}\\Week 1\\app.js",
+            "program": "${workspaceFolder}\\Week 2\\app2.js",
             "console": "integratedTerminal"
         }
     ]
