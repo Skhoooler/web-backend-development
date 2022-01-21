@@ -1,5 +1,0 @@
-The Instructions were a little vague in what I was required to submit. I followed along during the 
-acedmind videos for this week and pushed all of my code into github under Week 1. Please let me
-know if I messed up or needed to do it differently, thank you!
-
-https://github.com/Skhoooler/web-backend-development

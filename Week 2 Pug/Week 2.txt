@@ -1,0 +1,44 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+https://doria-week-2.herokuapp.com/
+
+The web server runs fine on my computer, but I wasn't able to get it fixed and working
+on Heroku before I had to submit it.
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/Skhoooler/web-backend-development/tree/main/Week%202%20Pug
+
+3. Briefly list and describe the elements of the application that are functioning. 
+Everything I did with Academind tutorial are working on my computer, including
+templates, css, and pug.
+
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+I haven't been able to get the assignment to work on Heroku yet.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+Probably learning how to use templates. I am a big fan of only writing code once, and
+being able to have a few templates that work for all of the different pages you can have
+is really cool to me.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+Just some more resources on how to use Heroku better, or what dependencies it was expecting/not expecting.
+One problem I fixed on my heroku was that it didn't like the script to run using nodemon, for example.
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   
+   
+   4 - Meets requirements      <---
+
+
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+I followed along in the tutorial, but I didn't really change anything the
+person was doing. Although I understood everything he did, I didn't do anything
+really creative.
